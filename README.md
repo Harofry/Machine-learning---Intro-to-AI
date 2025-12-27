@@ -1,1 +1,3 @@
-## A3 disciplina introdução a I.A - instituto metropole digital 
+## A3 disciplina introdução a I.A - instituto metrópole digital 
+
+Implementação prática dos fundamentos da inteligência artificial 
